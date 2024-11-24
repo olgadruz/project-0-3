@@ -1,0 +1,14 @@
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol 3/bin/Debug/net8.0/Greenville Idol 3
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol 3/bin/Debug/net8.0/Greenville Idol 3.deps.json
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol 3/bin/Debug/net8.0/Greenville Idol 3.runtimeconfig.json
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol 3/bin/Debug/net8.0/Greenville Idol 3.dll
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol 3/bin/Debug/net8.0/Greenville Idol 3.pdb
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol 3/obj/Debug/net8.0/Greenville Idol 3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol 3/obj/Debug/net8.0/Greenville Idol 3.AssemblyInfoInputs.cache
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol 3/obj/Debug/net8.0/Greenville Idol 3.AssemblyInfo.cs
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol 3/obj/Debug/net8.0/Greenville Idol 3.csproj.CoreCompileInputs.cache
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol 3/obj/Debug/net8.0/Greenville Idol 3.dll
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol 3/obj/Debug/net8.0/refint/Greenville Idol 3.dll
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol 3/obj/Debug/net8.0/Greenville Idol 3.pdb
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol 3/obj/Debug/net8.0/Greenville Idol 3.genruntimeconfig.cache
+/Users/Druzhkova/Library/Mobile Documents/com~apple~CloudDocs/USF/третий год/cop/Greenville Idol 3/obj/Debug/net8.0/ref/Greenville Idol 3.dll
